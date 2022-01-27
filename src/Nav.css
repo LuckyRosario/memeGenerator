@@ -1,4 +1,8 @@
 .nav {
 
-background: linear-gradient(90deg, #672280 1.18%, #A626D3 100%);
+background: linear-gradient(90deg, #dcbde7 1.18%, #aba5ad 100%);
+}
+.logo{
+    height: 80px;
+    width: auto;
 }
