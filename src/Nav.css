@@ -1,8 +1,13 @@
-.nav {
+nav {
 
-background: linear-gradient(90deg, #dcbde7 1.18%, #aba5ad 100%);
+background:  linear-gradient(90deg, #a187aa 1.18%, #797679 100%);
+color: white;
 }
 .logo{
     height: 80px;
     width: auto;
+}
+nav.dark {
+    background-color: #21222A;
+    color: white;
 }
